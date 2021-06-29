@@ -1,0 +1,14 @@
+10 3 3
+Kyiv 10
+Lviv 8
+Odesa 12
+Odesa
+Odesa
+Kyiv
+Odesa
+Lviv
+Kyiv
+Kyiv
+Lviv
+Odesa
+Odesa
